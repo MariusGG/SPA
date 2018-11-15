@@ -1,12 +1,13 @@
 *{
   font-size: 1em;
   margin: 10px;
+  background-color: #c1c1;
 }
 
 #nav_links a{
   background-color: green;
   color: white;
-  border: 2px solid #c1c1;
+  border: 2px solid #e1e1;
   padding: 5px;
   margin-right: 20px;
   text-decoration: none;
